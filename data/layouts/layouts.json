@@ -4410,6 +4410,36 @@
       "secondary_tileset": "gTileset_MysteryEventsHouse",
       "border_filepath": "data/layouts/SootopolisCity_MysteryEventsHouse_1F_StairsUnblocked/border.bin",
       "blockdata_filepath": "data/layouts/SootopolisCity_MysteryEventsHouse_1F_StairsUnblocked/map.bin"
+    },
+    {
+      "id": "LAYOUT_TEST_MAP1",
+      "name": "TestMap1_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/TestMap1/border.bin",
+      "blockdata_filepath": "data/layouts/TestMap1/map.bin"
+    },
+    {
+      "id": "LAYOUT_TEST_MAP01",
+      "name": "TestMap01_Layout",
+      "width": 25,
+      "height": 18,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/TestMap01/border.bin",
+      "blockdata_filepath": "data/layouts/TestMap01/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE01",
+      "name": "Route01_Layout",
+      "width": 20,
+      "height": 70,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route01/border.bin",
+      "blockdata_filepath": "data/layouts/Route01/map.bin"
     }
   ]
 }
